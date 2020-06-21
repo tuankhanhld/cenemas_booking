@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1096821458085",
+    "firebase_url": "https://cinemas-booking.firebaseio.com",
+    "project_id": "cinemas-booking",
+    "storage_bucket": "cinemas-booking.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1096821458085:android:687e9c7c27c0ce28db394c",
+        "android_client_info": {
+          "package_name": "com.kotlin.tuank.tk_cenemas"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1096821458085-sk15e4846n4r7tfb5mhav8daond5i5mj.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.kotlin.tuank.tk_cenemas",
+            "certificate_hash": "fd1a40af2a02b3aaf7389219a27608d496bc396c"
+          }
+        },
+        {
+          "client_id": "1096821458085-3posv67632ussd8slj2cev3i4eu71cau.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCnanzxNk2LQqJWclVeORhPwaUtYFPRLD8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1096821458085-3posv67632ussd8slj2cev3i4eu71cau.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

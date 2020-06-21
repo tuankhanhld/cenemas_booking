@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="colorBase">#E81667</color>
+    <color name="colorAdsContainer">#6A50BF</color>
+    <color name="colorStatusHome">#222539</color>
+    <color name="colorTextUnHighLight">#707070</color>
+    <color name="colorTextViewAll">#03A9F4</color>
+    <color name="colorBlack">#000000</color>
+</resources>
